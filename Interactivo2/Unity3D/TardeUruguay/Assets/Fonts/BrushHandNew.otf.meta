@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c1a23c730905b004da9f5ef4cfa2c7b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brush Hand New
+  fontNames:
+  - Brush Hand New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bbbd340b1e328be4e97b7d66b2e09ff2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

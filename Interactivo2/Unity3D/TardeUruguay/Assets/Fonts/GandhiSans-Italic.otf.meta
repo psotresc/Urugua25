@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 15f725f30bbc1644c86862b1a7feb5d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gandhi Sans
+  fontNames:
+  - Gandhi Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b83844e7916c8e4fa88e6079bd3854e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
